@@ -34,3 +34,7 @@ docker-compose run web bundle exec rspec
 docker-compose run web bundle update
 docker-compose up --build  # Untried
 ```
+
+## Problems with docker-compose on Ubuntu 20.04
+
+[Sofija Simic's article `How to Install Docker Compose on Ubuntu 20.04`](https://phoenixnap.com/kb/install-docker-compose-on-ubuntu-20-04) helped me.
