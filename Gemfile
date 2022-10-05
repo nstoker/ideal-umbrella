@@ -11,7 +11,7 @@ gem "cssbundling-rails" # Bundle and process CSS [https://github.com/rails/cssbu
 gem "jbuilder" # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jsbundling-rails" # Bundle and transpile JavaScript [https://github.com/rails/jsbundling-rails]
 gem "pg", "~> 1.1"
-gem "puma", "~> 5.0" # Use the Puma web server [https://github.com/puma/puma]
+gem "puma", "~> 5.6" # Use the Puma web server [https://github.com/puma/puma]
 gem "sprockets-rails" # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "stimulus-rails" # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "turbo-rails" # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
