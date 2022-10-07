@@ -32,5 +32,5 @@ docker-compose run web bundle exec rspec
 
 ```bash
 docker-compose run web bundle update
-docker-compose up --build  # Untried
+docker-compose up --build
 ```
