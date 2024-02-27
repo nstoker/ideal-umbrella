@@ -3,7 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "3.1.1"
 
-gem "rails", "~> 7.0.2", ">= 7.0.2.3"
+gem "rails", "~> 7.0.8"
 
 gem "bcrypt", "~> 3.1.7" # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 gem "bootsnap", require: false # Reduces boot times through caching; required in config/boot.rb
